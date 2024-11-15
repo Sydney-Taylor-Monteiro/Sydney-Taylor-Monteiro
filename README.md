@@ -12,6 +12,7 @@
 <div>📫 Contact ME:</div>
 <div>
   <a href="sydk.tm17@gmail.com">sydk.tm17@gmail.com</a>
-<a href="https://www.linkedin.com/in/sydney-taylor-monteiro-5b3952231/?trk=opento_sprofile_details">LinkedIn</a>
 </div>
-
+<div>
+  <a href="https://www.linkedin.com/in/sydney-taylor-monteiro-5b3952231/?trk=opento_sprofile_details">LinkedIn</a>
+</div>
