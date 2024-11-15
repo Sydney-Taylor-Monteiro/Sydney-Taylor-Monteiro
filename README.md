@@ -1,10 +1,10 @@
-👋 Hi, I’m Sydney-Taylor-Monteiro a Front-End and Website Developer.
-🌱 I’m currently learning React
-⚡ Fun fact about me I am also a beginner figure skater⛸️
+<div>👋 Hi, I’m Sydney-Taylor-Monteiro a Front-End and Website Developer.</div>
+<div>🌱 I’m currently learning React</div>
+<div>⚡ Fun fact about me I am also a beginner figure skater⛸️</div>
   
-SKILLS:
-Front-End Development: Experience with React and front-end technologies such as HTML, CSS, JavaScript, CSS and Bootstrap framework.
+<div>SKILLS:</div>
+<div><Front-End Development: Experience with React and front-end technologies such as HTML, CSS, JavaScript, CSS and Bootstrap framework./div>
   
-📫 Contact ME:
-sydk.tm17@gmail.com
+<div>📫 Contact ME:</div>
+<div>sydk.tm17@gmail.com</div>
 <a href="https://www.linkedin.com/in/sydney-taylor-monteiro-5b3952231/?trk=opento_sprofile_details">LinkedIn</a>
