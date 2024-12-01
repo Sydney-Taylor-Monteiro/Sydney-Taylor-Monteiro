@@ -1,5 +1,5 @@
 <div>👋 Hi, I’m Sydney-Taylor-Monteiro a Front-End and Website Developer.</div>
-<div>🌱 I’m currently learning React</div>
+<div>🌱 I’m currently learning React and basic UI/UX design </div>
 <div>⚡ Fun fact about me I am also a beginner figure skater⛸️</div>
 <div>
   
