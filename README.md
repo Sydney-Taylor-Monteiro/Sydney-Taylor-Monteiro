@@ -5,7 +5,7 @@
   
 </div>  
 <div>SKILLS:</div>
-<div>Experience with React and front-end technologies such as HTML, CSS, JavaScript, CSS and Bootstrap framework.</div>
+<div>Experience with React and front-end technologies such as HTML, CSS, JavaScript and Bootstrap framework.</div>
  <div>
    
  </div> 
